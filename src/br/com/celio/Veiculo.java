@@ -1,6 +1,7 @@
 package br.com.celio;
 
 public class Veiculo {
+
     public int ano;
     public String nome;
     public String cor;
@@ -54,4 +55,5 @@ public class Veiculo {
     public void setQuantidadeEmEstoque(int quantidadeEmEstoque) {
         this.quantidadeEmEstoque = quantidadeEmEstoque;
     }
+
 }
